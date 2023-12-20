@@ -16,7 +16,7 @@
                 "s3:GetObject"
             ],
             "Resource": [
-                "arn:aws:s3:::bucket-name/*"
+                "arn:aws:s3:::facerec-famousperson/*"
             ]
         },
         {
@@ -25,7 +25,7 @@
                 "dynamodb:PutItem"
             ],
             "Resource": [
-                "arn:aws:dynamodb:aws-region:account-id:table/family_collection"
+                "arn:aws:dynamodb:ap-south-1:541881848374:table/AWS_facerecognition"
             ]
         },
         {
