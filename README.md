@@ -2,11 +2,11 @@ Dedicated to exploring diverse image recognition techniques and their multifacet
 
 Key Focus:
 
-In-depth analysis of image recognition techniques
-Expanding applications within different domains
-Object identification and classification expertise
-Demonstrated commitment to exploring computer vision advancements
-Highlighting the potential impact on industrial landscapes
+- In-depth analysis of image recognition techniques
+- Expanding applications within different domains
+- Object identification and classification expertise
+- Demonstrated commitment to exploring computer vision advancements
+- Highlighting the potential impact on industrial landscapes
 
 
 # Commands
