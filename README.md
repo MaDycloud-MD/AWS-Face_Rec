@@ -25,9 +25,9 @@ Testing the Recognition System: Executed comprehensive testing scripts to valida
 
 <h4>Workflow:</h4>
 
-- 1) Image Upload Phase: Uploaded images of notable personalities to the designated S3 bucket, accompanied by metadata specifying individual names for indexing purposes.
-- 2) Lambda Trigger Process: Lambda functions were automatically activated upon image uploads to S3, efficiently extracting facial prints using Rekognition API and securely storing them within DynamoDB.
-- 3) Recognition Process: Rigorous testing with diverse images verified the system's accuracy. The Rekognition API compared facial prints against indexed data in DynamoDB, successfully identifying known personalities while appropriately flagging unknown individuals.
+1) Image Upload Phase: Uploaded images of notable personalities to the designated S3 bucket, accompanied by metadata specifying individual names for indexing purposes.
+2) Lambda Trigger Process: Lambda functions were automatically activated upon image uploads to S3, efficiently extracting facial prints using Rekognition API and securely storing them within DynamoDB.
+3) <b>Recognition Process:</b> Rigorous testing with diverse images verified the system's accuracy. The Rekognition API compared facial prints against indexed data in DynamoDB, successfully identifying known personalities while appropriately flagging unknown individuals.
 
 <h4>Conclusion:</h4>
 The project effectively demonstrates the streamlined integration of AWS Rekognition and associated services to craft a proficient face recognition system. By leveraging machine learning capabilities, it exemplifies a reliable approach to implementing accurate face recognition features without the complexities of intricate algorithm development. To further enhance accuracy, the system's index can be continually enriched by incorporating additional data.
