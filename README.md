@@ -72,7 +72,7 @@ aws dynamodb create-table --table-name AWS_facerecognition \
 ```
 aws s3 mb s3://facerec-famousperson --region ap-south-1
 ```
-
+<br>
 
 Offical Documentation for AWS Face Recognition Service Using Amazon Rekognition
 <br>
