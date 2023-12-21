@@ -70,4 +70,11 @@ aws dynamodb create-table --table-name AWS_facerecognition \
 - Create S3 bucket
 ```
 aws s3 mb s3://facerec-famousperson --region ap-south-1
+
 ```
+
+
+Recognizing Tech Raj for their instrumental role in deploying an advanced Face Recognition System utilizing AWS Rekognition. Their expertise in integrating S3, Lambda, DynamoDB, and IAM roles was pivotal in engineering a precise recognition system leveraging machine learning for accurate image identification. Their meticulous management of setup, programming, and seamless integration showcased the efficiency of AWS Rekognition, resulting in a scalable system with ongoing enhancement capabilities through data enrichment for improved accuracy.
+
+GitHub ID: https://github.com/teja156
+Video Link: https://youtu.be/oHSesteFK5c?si=wRPvsnC7hC0C603A
