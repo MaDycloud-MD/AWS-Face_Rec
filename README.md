@@ -1,5 +1,6 @@
 # Project Title: 
 ## __Automated Face Recognition System Deployment using AWS Rekognition__
+![Thumbnail](.\AWSFaceRekognition)
 
 ### Overview:
 This project showcases the deployment of a robust face recognition system harnessing AWS Rekognition, strategically employing multiple AWS services including S3, Lambda, DynamoDB, and IAM roles.
