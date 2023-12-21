@@ -75,6 +75,5 @@ aws s3 mb s3://facerec-famousperson --region ap-south-1
 
 
 Offical Documentation for AWS Face Recognition Service Using Amazon Rekognition
-
 <br>
 Blog: https://aws.amazon.com/blogs/machine-learning/build-your-own-face-recognition-service-using-amazon-rekognition/
